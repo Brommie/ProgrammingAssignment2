@@ -5,7 +5,6 @@
 ## choose to not calculate the inverse if you find 
 ## it unneccessary. 
 
-
 ## This function creates a matrix object with a list of four 
 ## methods: set(), get(), setinverse(), and get(inverse)
 ##  
